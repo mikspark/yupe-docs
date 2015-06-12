@@ -1,0 +1,5 @@
+site_name: Yupe CMS
+theme: readthedocs
+pages:
+- 'Введение': 'index.md'
+- 'Установка': 'install.md'
