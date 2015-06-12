@@ -1,5 +1,6 @@
 site_name: Yupe CMS
 theme: readthedocs
+theme_dir: themes/readthedocs
 pages:
 - 'Введение': 'index.md'
 - 'Установка': 'install.md'
